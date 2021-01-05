@@ -11,6 +11,8 @@ Perform and explain simple linear regression using Python on the powerproduction
   
   2. An explanation of your regression and an analysis of its accuracy.
   
+***
+
 ### Methodology:
 
 - Importing the data set
@@ -21,19 +23,39 @@ Perform and explain simple linear regression using Python on the powerproduction
 
 - Perform Analysis
 
-#### Analysis:
+***
+
+### Analysis:
 
 The break down of the analysis is as follows:
 
-- `Simple Linear Regression` using **Numpy**
+- `Simple Linear Regression` using _**Numpy**_
 
-- `Simple Linear Regression` using **Scikit-Learn**
+- `Simple Linear Regression` using _**Scikit-Learn**_
 
-- Advanced processing with **Scikit-Learn**, implementing `Automatic Outlier Detection` using `Isolation Forest` method
+- Advanced processing with _**Scikit-Learn**_, implementing `Automatic Outlier Detection` using `Isolation Forest` method
 
-- `Simple Linear Regression` using **Statsmodel**
+- `Simple Linear Regression` using _**Statsmodel**_
 
-- `Polynomial Regression` using **Scikit-Learn**
+- `Polynomial Regression` using _**Scikit-Learn**_
 
 
+***
 
+#### To run the Jupyter Notebook:
+
+Download and Install Anaconda's latest release from it's official and licensed source. The anaconda package includes the python code and the packages (libraries) needed for the computation and visualisation of the contetnts of the Tasks.ipynb file.
+
+Click on Code icon on the upper right corner and copy the 'link' under HTTPS
+
+Open the CLI or cmd on the machine navigate to the required directory insert $ git clone link of the repository
+
+Insert jupyter notebook
+
+A web browser is automatically initiated, where you can see the file Tasks.ipynb
+
+***
+
+### License
+
+This repository was enrolled under the MIT license. Please click here for further information.
