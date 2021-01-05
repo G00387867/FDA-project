@@ -25,6 +25,15 @@ Perform and explain simple linear regression using Python on the powerproduction
 
 The break down of the analysis is as follows:
 
-- 
+- `Simple Linear Regression` using **Numpy**
+
+- `Simple Linear Regression` using **Scikit-Learn**
+
+- Advanced processing with **Scikit-Learn**, implementing `Automatic Outlier Detection` using `Isolation Forest` method
+
+- `Simple Linear Regression` using **Statsmodel**
+
+- `Polynomial Regression` using **Scikit-Learn**
+
 
 
