@@ -2,7 +2,7 @@
 
 This repository contains a project work for implementing a regression on a data set.
 
-### Project requirements:
+### Project requirements
 
 Perform and explain simple linear regression using Python on the powerproduction dataset. The goal is to;
 
@@ -11,7 +11,9 @@ Perform and explain simple linear regression using Python on the powerproduction
   
   2. An explanation of your regression and an analysis of its accuracy.
   
-### Methodology:
+***
+
+### Methodology
 
 - Importing the data set
 
@@ -21,10 +23,39 @@ Perform and explain simple linear regression using Python on the powerproduction
 
 - Perform Analysis
 
-#### Analysis:
+***
+
+### Analysis
 
 The break down of the analysis is as follows:
 
-- 
+- `Simple Linear Regression` using _**Numpy**_
+
+- `Simple Linear Regression` using _**Scikit-Learn**_
+
+- Advanced processing with _**Scikit-Learn**_, implementing `Automatic Outlier Detection` using `Isolation Forest` method
+
+- `Simple Linear Regression` using _**Statsmodel**_
+
+- `Polynomial Regression` using _**Scikit-Learn**_
 
 
+***
+
+### To run the Jupyter Notebook
+
+Download and Install Anaconda's latest release from it's official and licensed source. The anaconda package includes the python code and the packages (libraries) needed for the computation and visualisation of the contetnts of the `power-production.ipynb` file.
+
+1. Click on **`Code`** icon on the upper right corner and copy the `link` under `HTTPS`
+
+2. Open the `CLI` or `cmd` on the machine navigate to the required directory insert `$ git clone` `link of the repository`
+
+3. Insert `$ jupyter notebook`
+
+4. A web browser is automatically initiated, where you can see the file `power-production.ipynb`
+
+***
+
+### License
+
+This repository was enrolled under the MIT license. Please click [**Here**](https://github.com/G00387867/FDA-project/blob/main/LICENSE) for further information.
