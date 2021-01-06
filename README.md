@@ -1,4 +1,4 @@
-# FDA-project
+## Fundamentals of Data Analysis Project (FDA-Project)
 
 This repository contains a project work for implementing a regression on a data set.
 
